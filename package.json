@@ -9,7 +9,7 @@
     "url": ""
   },
   "files": [
-    "dist"
+    "lib"
   ],
   "main": "lib/index.js",
   "keywords": [
